@@ -45,3 +45,5 @@ Updated wishlist of technologies,  personal projects and experiments I want to d
 - [ ] Create a Pathfinder RPG campaign
 - [ ] Create a Pathfinder RPG character creation web app
 - [ ] Create a Mexican Soccer Quiniela web app
+- [ ] Make habit to use Rapid logging for daily work
+  - In progress

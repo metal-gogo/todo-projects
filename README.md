@@ -47,3 +47,5 @@ Updated wishlist of technologies,  personal projects and experiments I want to d
 - [ ] Create a Mexican Soccer Quiniela web app
 - [ ] Make habit to use Rapid logging for daily work
   - In progress
+- [ ] Learn to implement a GraphQL server
+- [ ] Create an app with a GraphQL Backend
